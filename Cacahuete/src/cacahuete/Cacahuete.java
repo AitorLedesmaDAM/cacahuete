@@ -16,6 +16,7 @@ public class Cacahuete {
      */
     public static void main(String[] args) {
         System.out.println("Cacahuetes para todos");
+        System.out.println("No quiero");
     }
     
 }
